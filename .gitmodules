@@ -1,0 +1,3 @@
+[submodule "almalia"]
+	path = almalia
+	url = https://github.com/sixngles/sixngles-finance-frontend.git
